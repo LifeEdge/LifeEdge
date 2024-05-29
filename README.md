@@ -1,4 +1,27 @@
-# About me!
+# About me! 👇
+
+<div align="center">
+ <h2>👋 Hi! I'm Jason.
+  <br>
+   <br>
+  Currently I'm trying to learn web development and I'm mostly focusing on the frontend right now.
+ </h2>
+</div>
+    
+```json
+{
+  "name": "Jason",
+  "gender": "M",
+  "focus": "web dev",
+  "learning": [
+    "languages": "JavaScript",
+    "frameworks": "NextJS, Tailwind CSS",
+    "libraries": "ReactJS, Framer Motion"
+  ]
+}
+```
+
+
 <!--
 **LifeEdge/LifeEdge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
