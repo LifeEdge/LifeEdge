@@ -4,7 +4,7 @@
  <h2>👋 Hi! I'm Jason.
   <br>
    <br>
-  Currently I'm trying to learn web development and I'm mostly focusing on the frontend right now.
+  I'm a programmer who does front-end development, algorithms, and datastructures.
  </h2>
 </div>
     
@@ -12,11 +12,11 @@
 {
   "name": "Jason",
   "gender": "M",
-  "focus": "web dev",
-  "learning": [
-    "languages": "JavaScript",
-    "frameworks": "NextJS, Tailwind CSS",
-    "libraries": "ReactJS, Framer Motion"
+  "focus": "web dev", "competitive programming"
+  "stack": [
+    "languages": "JavaScript", "Java"
+    "frameworks": "NextJS", "Tailwind CSS",
+    "libraries": "ReactJS", "Framer Motion"
   ]
 }
 ```
