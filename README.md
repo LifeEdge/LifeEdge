@@ -4,7 +4,7 @@
  <h2>👋 Hi! I'm Jason.
   <br>
    <br>
-  I'm a programmer who does front-end development, algorithms, and datastructures.
+  I'm a programmer who does front-end web development, algorithms, and data structures.
  </h2>
 </div>
     
