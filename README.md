@@ -14,9 +14,9 @@
   "gender": "M",
   "focus": "web dev", "competitive programming"
   "stack": [
-    "languages": "JavaScript", "Java",
-    "frameworks": "NextJS", "Tailwind CSS",
-    "libraries": "ReactJS", "Framer Motion"
+    "languages": ["JavaScript", "Java", "TypeScript"],
+    "frameworks": ["NextJS", "Tailwind CSS"],
+    "libraries": ["ReactJS", "Framer Motion"]
   ]
 }
 ```
