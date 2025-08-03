@@ -12,12 +12,12 @@
 {
   "name": "Jason",
   "gender": "M",
-  "focus": "web dev", "competitive programming"
-  "stack": [
+  "focus": ["web dev", "competitive programming"],
+  "stack": {
     "languages": ["JavaScript", "Java", "TypeScript"],
     "frameworks": ["NextJS", "Tailwind CSS"],
     "libraries": ["ReactJS", "Framer Motion"]
-  ]
+  }
 }
 ```
 
